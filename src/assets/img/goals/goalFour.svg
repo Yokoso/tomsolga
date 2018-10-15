@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 301.5">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: rgba(255,255,255,0);
+      }
+
+      .cls-2, .cls-3 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #e98074;
+        stroke-width: 10px;
+      }
+
+      .cls-3 {
+        stroke: #e85a4f;
+        stroke-width: 5px;
+      }
+
+      .cls-4, .cls-6 {
+        fill: #e85a4f;
+      }
+
+      .cls-5, .cls-6 {
+        stroke: none;
+      }
+    </style>
+  </defs>
+  <g id="offerFour" transform="translate(-726 170)">
+    <rect id="Rectangle_7" data-name="Rectangle 7" class="cls-1" width="300" height="300" transform="translate(726 -170)"/>
+    <path id="Y_axis" data-name="Y axis" class="cls-2" d="M0,0V300" transform="translate(731 -169.5)"/>
+    <path id="X_axis" data-name="X axis" class="cls-2" d="M300,0H0" transform="translate(726 126.5)"/>
+    <g id="Group_1" data-name="Group 1" transform="translate(21.5 -220)">
+      <line id="Line_1" data-name="Line 1" class="cls-3" x2="10" transform="translate(755 342) rotate(-90)"/>
+      <line id="Line_1-2" data-name="Line 1" class="cls-3" x2="10" transform="translate(800 342) rotate(-90)"/>
+      <line id="Line_1-3" data-name="Line 1" class="cls-3" x2="10" transform="translate(845 342) rotate(-90)"/>
+      <line id="Line_1-4" data-name="Line 1" class="cls-3" x2="10" transform="translate(890 342) rotate(-90)"/>
+      <line id="Line_1-5" data-name="Line 1" class="cls-3" x2="10" transform="translate(935 342) rotate(-90)"/>
+      <line id="Line_1-6" data-name="Line 1" class="cls-3" x2="10" transform="translate(980 342) rotate(-90)"/>
+    </g>
+    <g id="Path_1" data-name="Path 1" class="cls-4" transform="translate(749.388 -131)">
+      <path class="cls-5" d="M 264.9548645019531 235.5 L 0.841474175453186 235.5 L 46.79731750488281 151.0793762207031 L 88.02655029296875 194.9755249023438 L 88.41328430175781 195.3872680664063 L 88.77504730224609 194.9534301757813 L 115.1553115844727 163.3153381347656 L 143.8917541503906 131.862548828125 L 169.7188568115234 134.4808044433594 L 169.9829559326172 134.507568359375 L 170.153076171875 134.3038024902344 L 264.9548645019531 20.77412414550781 L 264.9548645019531 235.5 Z"/>
+      <path class="cls-6" d="M 264.4548645019531 235 L 264.4548645019531 22.15297698974609 L 170.5368499755859 134.6242980957031 L 170.1965789794922 135.0317687988281 L 169.6684112548828 134.9782257080078 L 144.0913696289063 132.3853302001953 L 115.5320510864258 163.6442565917969 L 89.15904998779297 195.2736358642578 L 88.435546875 196.1413269042969 L 87.66211700439453 195.31787109375 L 46.90602493286133 151.9254455566406 L 1.682946562767029 235 L 264.4548645019531 235 M 265.4548645019531 236 L 1.699218773865141e-05 236 L 46.68861770629883 150.2332916259766 L 88.39101409912109 194.6332244873047 L 114.7785186767578 162.9864654541016 L 143.6921539306641 131.3397369384766 L 169.769287109375 133.9833374023438 L 265.4548645019531 19.39526557922363 L 265.4548645019531 236 Z"/>
+    </g>
+    <g id="Group_2" data-name="Group 2" transform="translate(-30.5 -361)">
+      <line id="Line_1-7" data-name="Line 1" class="cls-3" x2="11" transform="translate(765.5 223.5)"/>
+      <line id="Line_1-8" data-name="Line 1" class="cls-3" x2="11" transform="translate(765.5 268.5)"/>
+      <line id="Line_1-9" data-name="Line 1" class="cls-3" x2="11" transform="translate(765.5 313.5)"/>
+      <line id="Line_1-10" data-name="Line 1" class="cls-3" x2="11" transform="translate(765.5 358.5)"/>
+      <line id="Line_1-11" data-name="Line 1" class="cls-3" x2="11" transform="translate(765.5 403.5)"/>
+      <line id="Line_1-12" data-name="Line 1" class="cls-3" x2="11" transform="translate(765.5 448.5)"/>
+    </g>
+  </g>
+</svg>

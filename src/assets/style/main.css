@@ -1,0 +1,91 @@
+:root {
+  --main-color: #45BAFC;
+  --off-color: #343740;
+  --cta-color: #E98074;
+  --cta-strong-color: #E85A4F;
+  --cta-light-color: #e2978e;
+  --white: #FDFDFD;
+  --white2: #DDDDDD;
+  --lightGray: #BEC6D5;
+  --gray: #A7C6D5;
+  --black: #1D1E25;
+}
+* {
+  margin: 0;
+  text-align: center;
+}
+body {
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 22px;
+}
+header {
+  height: 100vh;
+}
+::selection {
+  background: var(--cta-light-color);
+  color: black;
+}
+#goals, #about, .projectBox, #contact {
+  padding-bottom: 50px;
+}
+/* headers and text */
+h1 {
+  font-family: "Nunito Sans", sans-serif;
+  font-size: 1.5vh;
+}
+.title {
+  font-family: "Lato", sans-serif;
+  font-size: 3.5vh;
+  margin: 50px auto;
+}
+.subtitle {
+  font-family: "Raleway", sans-serif;
+  font-size: 2.2vh;
+  font-weight: 300;
+  line-height: 1.2;
+}
+.red, a:hover {
+  color: var(--cta-strong-color);
+}
+a {
+  color: var(--lightGray);
+  text-align: center;
+  text-decoration: none;
+  transition: all 0.3s;
+}
+.cv img {
+  height: auto;
+  transition: all .5s ease-in-out;
+  width: 50px;
+}
+.cv:hover {
+  animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+}
+.gh {
+  background-color: var(--main-color);
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+  color: var(--off-color);
+  font-size: 2.5vh;
+  padding: 10px;
+  margin: 5%;
+}
+.gh:hover {
+  background-color: var(--gray);
+  color: var(--off-color);
+}
+@keyframes shake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}

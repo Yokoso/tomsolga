@@ -1,0 +1,210 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 595 842" style="background: #343740;">
+  <defs>
+    <style>
+      .cls-1 {
+        clip-path: url(#clip-cv);
+      }
+
+      .cls-2, .cls-9 {
+        fill: #eae7dc;
+      }
+
+      .cls-12, .cls-3, .cls-6 {
+        fill: #45bafc;
+      }
+
+      .cls-3 {
+        font-size: 30px;
+        font-family: Candara-Bold, Candara;
+        font-weight: 700;
+      }
+
+      .cls-4, .cls-5 {
+        fill: #e98074;
+        font-style: italic;
+      }
+
+      .cls-4 {
+        font-size: 17px;
+        font-family: SegoeUI-SemiboldItalic, Segoe UI;
+        font-weight: 600;
+      }
+
+      .cls-5 {
+        font-size: 24px;
+        font-family: SegoeUI-Italic, Segoe UI;
+      }
+
+      .cls-7 {
+        fill: none;
+        stroke: #e98074;
+      }
+
+      .cls-10, .cls-11, .cls-14, .cls-15, .cls-8 {
+        fill: #343740;
+      }
+
+      .cls-10, .cls-12, .cls-13, .cls-8 {
+        font-size: 12px;
+      }
+
+      .cls-11, .cls-15, .cls-8 {
+        font-family: SegoeUI, Segoe UI;
+        letter-spacing: -0.001em;
+      }
+
+      .cls-10 {
+        font-family: Candara;
+      }
+
+      .cls-11 {
+        font-size: 15px;
+      }
+
+      .cls-15 {
+        font-size: 10px;
+      }
+
+      .cls-16, .cls-17 {
+        stroke: none;
+      }
+
+      .cls-17 {
+        fill: #bec6d5;
+      }
+
+      .cls-18 {
+        filter: url(#Rectangle_5);
+      }
+
+      .cls-19 {
+        filter: url(#Rectangle_4);
+      }
+
+      .cls-20 {
+        filter: url(#Path_5);
+      }
+
+      .cls-21 {
+        filter: url(#Rectangle_3);
+      }
+
+      .cls-22 {
+        filter: url(#Path_4);
+      }
+    </style>
+    <filter id="Path_4" x="19" y="14" width="558" height="198" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_3" x="19" y="214" width="558" height="189" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Path_5" x="224.169" y="31.915" width="336.662" height="220.981" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_4" x="19" y="405" width="558" height="261.656" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-4"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="Rectangle_5" x="18" y="669" width="558" height="143" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-5"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur-5"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <clipPath id="clip-cv">
+      <rect width="595" height="842"/>
+    </clipPath>
+  </defs>
+  <g id="cv" class="cls-1">
+    <rect class="cls-2" width="595" height="842"/>
+    <g class="cls-22" transform="matrix(1, 0, 0, 1, 0, 0)">
+      <path id="Path_4-2" data-name="Path 4" class="cls-2" d="M0,0H540V180H0Z" transform="translate(28 20)"/>
+    </g>
+    <g id="Group_3" data-name="Group 3" transform="translate(0 -12)">
+      <text id="Tomasz_SOLGA" data-name="Tomasz
+SOLGA" class="cls-3" transform="translate(65 116)"><tspan x="0" y="0">Tomasz</tspan><tspan x="0" y="30">SOLGA</tspan></text>
+      <text id="Frontend_Developer" data-name="Frontend Developer" class="cls-4" transform="translate(65 168)"><tspan x="0" y="0">Frontend Developer</tspan></text>
+    </g>
+    <g id="Group_4" data-name="Group 4" transform="translate(0 -30)">
+      <g class="cls-21" transform="matrix(1, 0, 0, 1, 0, 30)">
+        <rect id="Rectangle_3-2" data-name="Rectangle 3" class="cls-2" width="540" height="171" transform="translate(28 220)"/>
+      </g>
+      <text id="AboutMe" class="cls-5" transform="translate(67 277)"><tspan x="0" y="0">About</tspan><tspan class="cls-6" y="0">Me</tspan></text>
+      <path id="Path_1" data-name="Path 1" class="cls-7" d="M0,0H540" transform="translate(28.5 284.5)"/>
+      <text id="From_the_moment_I_produced_C_s_Hello_World_in_the_terminal_of_my_first_application_I_knew_I_was_hooked_into_the_world_of_software_development._But_software_development_has_never_been_just_a_job_for_me_it_s_offered_an_engaging_challenge_to_continu" data-name="From the moment I produced C++&apos;s &quot;Hello World&quot; in the terminal of my first application, 
+I knew I was hooked into the world of software development. But software development 
+has never been &quot;just a job&quot; for me, it&apos;s offered an engaging challenge to continu" class="cls-8" transform="translate(65 294)"><tspan x="0" y="13">From the moment I produced C++&apos;s &quot;Hello World&quot; in the terminal of my first application, </tspan><tspan x="0" y="28">I knew I was hooked into the world of software development. But software development </tspan><tspan x="0" y="43">has never been &quot;just a job&quot; for me, it&apos;s offered an engaging challenge to continually learn </tspan><tspan x="0" y="58">and improve my skills in creating high-quality software. What started with a simple &quot;Hello </tspan><tspan x="0" y="73">World&quot; has become a full-fledged passion that only gets more exciting as the years go </tspan><tspan x="0" y="88">by. Below you&apos;ll find projects I&apos;ve completed that showcase my skills and general </tspan><tspan x="0" y="103">background in developing software.</tspan></text>
+    </g>
+    <g id="Group_7" data-name="Group 7" transform="matrix(0.978, -0.208, 0.208, 0.978, -15.479, 103.029)">
+      <g class="cls-20" transform="matrix(0.98, 0.21, -0.21, 0.98, 36.56, -97.56)">
+        <g id="Path_5-2" data-name="Path 5" class="cls-9" transform="matrix(0.98, -0.21, 0.21, 0.98, 233.17, 99.25)">
+          <path class="cls-16" d="M 294.5 144.3119354248047 L 0.5 144.3119354248047 L 0.5 0.5000138282775879 L 294.5 0.5000138282775879 L 294.5 144.3119354248047 Z"/>
+          <path class="cls-17" d="M 1 1.000015258789063 L 1 143.8119354248047 L 294 143.8119354248047 L 294 1.000015258789063 L 1 1.000015258789063 M 0 1.52587890625e-05 L 295 1.52587890625e-05 L 295 144.8119354248047 L 0 144.8119354248047 L 0 1.52587890625e-05 Z"/>
+        </g>
+      </g>
+      <g id="Group_1" data-name="Group 1" transform="translate(-19 -13)">
+        <text id="Address:" class="cls-10" transform="translate(293 87)"><tspan x="0" y="0">Address:</tspan></text>
+        <text id="Email:" class="cls-10" transform="translate(293 107)"><tspan x="0" y="0">Email:</tspan></text>
+        <text id="Phone:" class="cls-10" transform="translate(293 127)"><tspan x="0" y="0">Phone:</tspan></text>
+        <text id="Website:" class="cls-10" transform="translate(293 147)"><tspan x="0" y="0">Website:</tspan></text>
+        <text id="Github:" class="cls-10" transform="translate(293 167)"><tspan x="0" y="0">Github:</tspan></text>
+        <text id="Goldenline:" class="cls-10" transform="translate(293 187)"><tspan x="0" y="0">Goldenline:</tspan></text>
+      </g>
+      <g id="Group_2" data-name="Group 2" transform="translate(-23 -9)">
+        <text id="Wrocław_Poland" data-name="Wrocław, Poland" class="cls-10" transform="translate(374 83)"><tspan x="0" y="0">Wrocław, Poland</tspan></text>
+        <text id="tomsolga90_gmail.com" data-name="tomsolga90@gmail.com" class="cls-10" transform="translate(374 103)"><tspan x="0" y="0">tomsolga90@gmail.com</tspan></text>
+        <text id="_48_782_625_013" data-name="48 782 625 013" class="cls-10" transform="translate(374 123)"><tspan x="0" y="0">48 782 625 013</tspan></text>
+        <text id="tomsolga.pl" class="cls-10" transform="translate(374 143)"><tspan x="0" y="0">tomsolga.pl</tspan></text>
+        <text id="github.com_Yokoso" data-name="github.com/Yokoso" class="cls-10" transform="translate(374 163)"><tspan x="0" y="0">github.com/Yokoso</tspan></text>
+        <text id="goldenline.pl_tomasz-solga_" data-name="goldenline.pl/tomasz-solga/" class="cls-10" transform="translate(374 183)"><tspan x="0" y="0">goldenline.pl/tomasz-solga/</tspan></text>
+      </g>
+    </g>
+    <g id="Group_5" data-name="Group 5" transform="translate(0 -15)">
+      <g class="cls-19" transform="matrix(1, 0, 0, 1, 0, 15)">
+        <rect id="Rectangle_4-2" data-name="Rectangle 4" class="cls-2" width="540" height="243.656" transform="translate(28 411)"/>
+      </g>
+      <text id="Experience" class="cls-5" transform="translate(67 453.248)"><tspan x="0" y="0">Exp</tspan><tspan class="cls-6" y="0">erience</tspan></text>
+      <path id="Path_2" data-name="Path 2" class="cls-7" d="M0,0H540" transform="translate(28.5 460.563)"/>
+      <text id="Portfolio_Website_tomsolga.pl_Portfolio_website_created_by_using_vuejs_" data-name="Portfolio Website
+ tomsolga.pl
+Portfolio website created by using vuejs " class="cls-11" transform="translate(67 482)"><tspan x="54.824" y="16">Portfolio Website</tspan><tspan x="78.414" y="33"> </tspan><tspan class="cls-12" y="33">tomsolga.pl</tspan><tspan class="cls-13" y="33"></tspan><tspan class="cls-13"><tspan x="5.208" y="50">Portfolio website created by using vuejs </tspan></tspan></text>
+      <text id="Social_Media_Website_yokoso.github.io_social-media_Simple_psd_to_html5_and_css3_project" data-name="Social Media Website
+yokoso.github.io/social-media
+Simple psd to html5 and css3 project" class="cls-11" transform="translate(67 577)"><tspan x="41.03" y="16">Social Media Website</tspan><tspan class="cls-12"><tspan x="31.907" y="33">yokoso.github.io/social-media</tspan><tspan class="cls-14" y="33"></tspan></tspan><tspan class="cls-13"><tspan x="13.879" y="50">Simple psd to html5 and css3 project</tspan></tspan></text>
+      <text id="Pomodoro_Clock_github.com_Yokoso_pomodoro-clock_Reactjs_app" data-name="Pomodoro Clock
+github.com/Yokoso/pomodoro-clock
+Reactjs app" class="cls-11" transform="translate(317 577)"><tspan x="56.512" y="16">Pomodoro Clock</tspan><tspan class="cls-13" y="16"></tspan><tspan class="cls-12"><tspan x="13.782" y="33">github.com/Yokoso/pomodoro-clock</tspan><tspan class="cls-14" y="33"></tspan></tspan><tspan class="cls-13"><tspan x="81.402" y="50">Reactjs app</tspan></tspan></text>
+      <text id="Weather_App_yokoso.github.io_weather-app_Weather_app_writen_in_reactjs_connected_to_openweathermap_api" data-name="Weather App 
+yokoso.github.io/weather-app/
+Weather app, writen in reactjs, connected to openweathermap api" class="cls-11" transform="translate(317 482)"><tspan x="66.462" y="16">Weather App</tspan><tspan class="cls-13" y="16"> </tspan><tspan class="cls-12"><tspan x="29.42" y="33">yokoso.github.io/weather-app/</tspan><tspan class="cls-14" y="33"></tspan></tspan><tspan class="cls-13"><tspan x="0.901" y="50">Weather app, writen in reactjs, connected </tspan><tspan x="48.248" y="67">to openweathermap api</tspan></tspan></text>
+    </g>
+    <g id="Group_6" data-name="Group 6" transform="translate(-1 -58)">
+      <g class="cls-18" transform="matrix(1, 0, 0, 1, 1, 58)">
+        <rect id="Rectangle_5-2" data-name="Rectangle 5" class="cls-2" width="540" height="125" transform="translate(27 675)"/>
+      </g>
+      <text id="self-teaching_the_world_of_web_development_since_2015_using_html_css_javascript_and_its_frameworks_to_create_self-projects" data-name="self-teaching the world of web development since 2015, using html, css, javascript and its frameworks, to create self-projects" class="cls-8" transform="translate(129 774)"><tspan x="4.218" y="13">self-teaching the world of web development since 2015, using </tspan><tspan x="7.017" y="28">html, css, javascript and its frameworks, to create self-projects</tspan></text>
+      <text id="General_Certificate_of_Secondary_Education_Comprehensive_Secondary_School_in_Bytom_specialization:_general_" data-name="General Certificate of Secondary Education, 
+Comprehensive Secondary School in Bytom (specialization: general)" class="cls-8" transform="translate(115 813)"><tspan x="67.447" y="13">General Certificate of Secondary Education, </tspan><tspan x="4.828" y="28">Comprehensive Secondary School in Bytom (specialization: general)</tspan></text>
+      <path id="Path_3" data-name="Path 3" class="cls-7" d="M0,0H540" transform="translate(28.5 765.563)"/>
+      <text id="Education" class="cls-5" transform="translate(67 758.248)"><tspan x="0" y="0">E</tspan><tspan class="cls-6" y="0">ducation</tspan></text>
+    </g>
+    <text id="I_agree_that_my_personal_data_will_be_processed_by_company_name_in_order_to_recruit_for_the_position_I_am_applying_for." data-name="I agree that my personal data will be processed by (company name) in order to recruit for the position I am applying for." class="cls-15" transform="translate(34 827)"><tspan x="0" y="0">I agree that my personal data will be processed in order to recruit for the position I am applying for.</tspan></text>
+  </g>
+</svg>

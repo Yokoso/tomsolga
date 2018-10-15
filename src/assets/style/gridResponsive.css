@@ -1,0 +1,61 @@
+@media only screen and (max-width: 600px) {
+  .projectBox, #goals, #about, #contact {
+    height: auto;
+  }
+/* MENU */
+  #menu {
+    grid-template-columns: repeat(5, 1fr);
+    grid-gap: 5px;
+  }
+  #menu li:first-child {
+    grid-column-start: 1;
+  }
+/* GOALS */
+  #goalOne {
+    grid-column: 2 / 12;
+  }
+  #goalTwo {
+    grid-column: 2 / 12;
+  }
+  #goalThree {
+    grid-column: 2 / 12;
+  }
+  #goalFour {
+    grid-column: 2 / 12;
+/* ABOUT */
+  }
+  #about img {
+    grid-column: 2 / 12;
+  }
+  #about p {
+    grid-column: 2 / 12;
+  }
+  #about ul {
+    grid-column: 2 / 12;
+    grid-row-start: 4;
+  }
+/* PROJECTS */
+  #projectOne, #projectTwo, #projectThree,
+  #projectFour, #projectFive, #projectSix {
+    grid-column: 2 / 11;
+  }
+  .gh {
+    grid-column: 3/10;
+  }
+/* FOOTER */
+  footer {
+    grid-template-columns: repeat(5, 1fr);
+    grid-row-start: 2;
+    grid-gap: 10px;
+  }
+  footer p, a {
+    grid-column: 1 / 3;
+  }
+  footer p {
+    grid-column: 1 / 6;
+  }
+  footer .cv {
+    grid-column: 5 / 6;
+    grid-row: 2/4;
+  }
+}

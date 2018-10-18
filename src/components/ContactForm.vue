@@ -53,7 +53,7 @@ textarea {
   border-radius: 5px;
   cursor: pointer;
   font-family: 'Open Sans', sans-serif;
-  font-size: 2.5vh;
+  font-size: .8em;
   padding: 10px 0;
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   transition: all 0.3s;

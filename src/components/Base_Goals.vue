@@ -39,7 +39,7 @@ export default {
 }
 h4 {
   font-family: "Open sans", sans-serif;
-  font-size: 2.5vh;
+  font-size: .9em;
   font-weight: bolder;
   padding: 20px 0;
 }

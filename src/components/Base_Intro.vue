@@ -38,14 +38,14 @@ header::after {
 }
 h1 {
   color: var(--main-color);
-  font-size: 6.5vh;
   padding: 3%;
-}
-h2 {
-  font-family: "Nunito Sans", sans-serif;
-  font-size: 3.5vh;
 }
 p {
   color: var(--lightGray);
+}
+@media only screen and (max-width: 600px) {
+  header {
+    background-image: none;
+  }
 }
 </style>

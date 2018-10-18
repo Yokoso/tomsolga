@@ -1,7 +1,7 @@
 <template>
   <div class="grid projectBox" id="projects">
     <section>
-      <h2 class="title" data-aos="zoom-in">Projects</h2>
+      <h2 class="title">Projects</h2>
     </section>
     <section class="projectPage container" :id="project.id" v-for="project in projects" :key="project.id">
       <img :src="projectPhoto + project.id + '.jpg'" alt="projectPhoto">
@@ -93,7 +93,7 @@ p {
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
   color: var(--black);
   cursor: pointer;
-  font-size: 2.5vh;
+  font-size: .8em;
   margin: 5%;
   padding: 10px 0;
   transition: all 0.3s;

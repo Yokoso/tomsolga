@@ -19,6 +19,12 @@ import Base_About from "./components/Base_About.vue"
 import Base_Goals from "./components/Base_Goals.vue"
 import Base_Contact from "./components/Base_Contact.vue"
 
+const resetCss = require('./assets/css/reset.css')
+const mainCss = require('./assets/css/main.css')
+const gridCss = require('./assets/css/grid.css')
+const mainResCss = require('./assets/css/mainResponsive.css')
+const gridResCss = require('./assets/css/gridResponsive.css')
+
 export default {
   components: {
     "app-nav": Base_Navigation,

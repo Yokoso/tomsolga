@@ -62,7 +62,7 @@ hr {
 
 img {
   height: auto;
-  width: 100%;
+  width: 80%;
 }
 h2 {
   margin-bottom: 2%;

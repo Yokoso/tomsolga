@@ -1,8 +1,5 @@
 <template>
   <nav id="nav">
-    <a class="cv link" href="src/assets/cv.pdf" target="_blank">
-      <img src="../assets/img/cv.png" alt="CV">
-    </a>
     <ul id="menu" class="grid">
       <li v-for="menuItem in menuItems" :key="menuItem.name"><a class="subtitle" v-bind:href="'#' + menuItem.name">{{upper(menuItem.name)}}</a></li>
     </ul>
@@ -38,7 +35,7 @@ nav {
   width: 100%;
 }
 ul {
-  padding: 25px;
+  padding: 1.5vh;
   text-align: right;
 }
 li {
@@ -46,6 +43,9 @@ li {
   display: flex;
   justify-content: center;
 }
+/* li:not(:first-child) {
+  border-left: 1px solid var(--main-color);
+} */
 nav {
   z-index: 999;
 }
@@ -54,9 +54,5 @@ nav {
 }
 .navHide {
   display: none;
-}
-a {
-  float: left;
-  padding: 7px 0 7px 2%;
 }
 </style>

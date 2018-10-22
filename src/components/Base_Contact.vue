@@ -1,6 +1,6 @@
 <template>
   <article id="contact" class="grid">
-    <section data-aos="zoom-in" data-aos-duration="2500">
+    <section data-aos="zoom-in" data-aos-duration="1500">
       <h2 class="title">Contact</h2>
       <p class="subtitle">Send me a message</p>
       <div class="alert">Your message has been sent.</div>

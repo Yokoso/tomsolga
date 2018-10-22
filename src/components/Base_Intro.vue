@@ -16,10 +16,6 @@ export default {
 header {
   background-color: var(--off-color);
   position: relative;
-  background-image: url("../assets/img/hi.svg");
-  background-repeat: no-repeat;
-  background-size: 30%;
-  background-position: center;
 }
 header::after {
   background-position: center;
@@ -43,9 +39,9 @@ h1 {
 p {
   color: var(--lightGray);
 }
-@media only screen and (max-width: 600px) {
+/* @media only screen and (max-width: 600px) {
   header {
     background-image: none;
   }
-}
+} */
 </style>

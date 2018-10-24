@@ -1,11 +1,11 @@
 // Initialize Firebase
 const config = {
-  apiKey: configs.apiKey,
-  authDomain: configs.authDomain,
-  databaseURL: configs.databaseURL,
-  projectId: configs.projectId,
-  storageBucket: configs.storageBucket,
-  messagingSenderId: configs.messagingSenderId
+  apiKey: "AIzaSyBRLRQDWfzDph7wNlNHt5L3-liL4oW_zb0",
+  authDomain: "portfolio-contact-form-95785.firebaseapp.com",
+  databaseURL: "https://portfolio-contact-form-95785.firebaseio.com",
+  projectId: "portfolio-contact-form-95785",
+  storageBucket: "portfolio-contact-form-95785.appspot.com",
+  messagingSenderId: "243967031318"
 };
 firebase.initializeApp(config);
 
